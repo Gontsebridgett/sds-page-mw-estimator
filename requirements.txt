@@ -1,0 +1,5 @@
+# Core analysis script uses only the Python standard library.
+# The accompanying Jupyter notebook additionally uses:
+pandas
+matplotlib
+numpy
